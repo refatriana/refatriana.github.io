@@ -5,4 +5,7 @@
 }
 .jumbotron {
   background-color: #f5f9fc;
+  scroll-padding-top: 1;
+  padding-top: 2rem;
+  padding-bottom: 0px;
 }
